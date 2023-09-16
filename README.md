@@ -26,17 +26,16 @@ Data at each node will be either  or
 The input can have preceding zeros.
 Input/output will be handled by us. Don't print anything in the code.
 
-Sample Input
-
 ```
+##Sample Input
+
 7
 0 0 1 1 0 1 0
-``
-`
+
 Sample Output
 
-```
 26
+
 ```
 
 Explanation
